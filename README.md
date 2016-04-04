@@ -256,8 +256,6 @@ Coverage: Graph Theory (Class 15 - 16)
 * Ordered rooted tree
 * Properties of Trees
 * Binary Search Tree
-* Tree Traversal
-* Spanning Trees
 * Slide Presentation (https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/GraphTheorySlides)
 
 ### Class 18
@@ -270,6 +268,8 @@ Coverage: Graph Theory (Class 15 - 16)
 
 ### Reading Assignment: (included in the Final Examination)
 
+* Tree Traversal
+* Spanning Trees
 * Relations and Their Properties
 * n-ary Relations and Applications
 * Representing Relations
