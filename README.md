@@ -330,8 +330,11 @@ To be able to design and implement an application about the core themes or conce
 * Three people is possible, but two works best
 * Switch who's "driving" regularly
 
-### Due date: April 13, 2016 (until 5 p.m. ONLY)
-
+### Due date: April 13, 2016 (1:00 p.m. until 5:30 p.m. ONLY)
+**Project Checking Venue: V503/V504**
+* DISMATH-EL (13-Apr-16)	(1:00-2:30 p.m.)	(V503/V504)
+* DISMATH-EQ (13-Apr-16)	(2:30-4:00 p.m.)	(V503/V504)
+* DISMATH-EK (13-Apr-16)	(4:00-5:30 p.m.)	(V503/V504)
 
 ## Resources
 
