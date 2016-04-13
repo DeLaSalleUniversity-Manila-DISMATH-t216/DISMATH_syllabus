@@ -337,7 +337,7 @@ To be able to design and implement an application about the core themes or conce
 * DISMATH-EK (13-Apr-16)	(4:00-5:30 p.m.)	(V503/V504)
 
 
-## Grade Consultation: April 18, 2016 (1:00 - 1:30 p.m. ONLY)
+## Grade Consultation: April 18, 2016 M (1:00 - 1:30 p.m. ONLY)
 **Venue: V503/V504**
 
 ## Resources
