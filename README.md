@@ -363,6 +363,9 @@ To be able to design and implement an application about the core themes or conce
 * [Conditionals: Converse, Inverse, and Contrapositive](https://www.youtube.com/watch?v=p9VVi90n_48&index=10&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz) 
 * [Predicate Logic/ Quantificational Logic with Negation](https://www.youtube.com/watch?v=XGeIynFIUHs&index=11&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz) 
 
+### Additional New tutorials (2017):
+
+* https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/Tutorials
 
 ### Tools
 
