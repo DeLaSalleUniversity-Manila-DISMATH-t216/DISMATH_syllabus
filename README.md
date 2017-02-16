@@ -349,6 +349,10 @@ To be able to design and implement an application about the core themes or conce
 * [MIT, Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/index.htm)
 
 
+### Pseudocode Convention
+
+* http://onlinelibrary.wiley.com/doi/10.1002/0470029757.app1/pdf 
+
 ### Interesting Reads:
 
 * Laurie Abkemeier. Case Study: How I Got the Highest Grade in my Discrete Math Class (http://calnewport.com/blog/2008/11/25/case-study-how-i-got-the-highest-grade-in-my-discrete-math-class/, accessed February 17, 2016)
